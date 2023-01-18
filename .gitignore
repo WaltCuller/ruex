@@ -143,5 +143,23 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+.next/*
 .next/cache
 node_modules
+/.pnp
+.pnp.js
+*.tsbuildinfo
+.vercel
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+.env*.local
+
+
+# production
+/build
