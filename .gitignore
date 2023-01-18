@@ -143,5 +143,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+.next/*
 .next/cache
 node_modules
